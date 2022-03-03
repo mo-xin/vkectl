@@ -32,3 +32,4 @@ Examples:
 ```
 vkectl resource ListClusters
 ```
+demo
